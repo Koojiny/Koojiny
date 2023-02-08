@@ -10,7 +10,7 @@
 | Backend | ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) |
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white) |
 | DevOps | ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| Tools | ![IntelliJ](https://img.shields.io/badge/IntelliJ-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) |
+| Tools | ![IntelliJ](https://img.shields.io/badge/IntelliJ-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) |
 | ETC | ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) |
 
 ## 📚 Github
