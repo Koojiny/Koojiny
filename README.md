@@ -9,6 +9,8 @@
 </div>
 
 ## ⚒️ Tech Skill
+<div align="center">
+
 | Classification | Skills |
 | ------ | ------ |
 | Language | ![Java](https://img.shields.io/badge/Java-FF7800.svg?&style=for-the-badge&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FCE22A) |
@@ -18,6 +20,8 @@
 | Tools | ![IntelliJ](https://img.shields.io/badge/IntelliJ-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) |
 | ETC | ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) |
 
+</div> 
+  
 ## 📚 Github
 <div align="center">
   
