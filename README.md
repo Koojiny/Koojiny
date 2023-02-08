@@ -13,6 +13,10 @@
 | Tools | ![IntelliJ](https://img.shields.io/badge/IntelliJ-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) |
 | ETC | ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) |
 
+## 📚 Github
+![Koojiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koojiny&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koojiny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏅 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj09252)](https://solved.ac/msj09252/)
 
