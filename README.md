@@ -1,10 +1,12 @@
-# Koojiny 😎
+<div align="center">
 
-## 📬 Contacts
+# Koojiny 😎
 [![Tech Blog Badge](http://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@msj09252)](https://velog.io/@msj09252)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msj09252@gmail.com)](mailto:msj09252@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:msj09252@naver.com)](mailto:msj09252@naver.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoojiny&count_bg=%232856AC&title_bg=%233BD6E6&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
 
 ## ⚒️ Tech Skill
 | Classification | Skills |
@@ -17,12 +19,23 @@
 | ETC | ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) |
 
 ## 📚 Github
-![Koojiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koojiny&show_icons=true&theme=Default) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koojiny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  
+<a href="https://github.com/Koojiny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Koojiny&show_icons=true&hide_border=true" style="max-width: 100%;" />
+</a>
+<a href="https://github.com/Koojiny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koojiny&layout=compact" style="max-width: 100%;" />
+</a>
+  
+</div>
+ 
 ## 🏅 Solved.ac
+<div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj09252)](https://solved.ac/msj09252/)
 
+</div>
 <!--
 **Koojiny/Koojiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
