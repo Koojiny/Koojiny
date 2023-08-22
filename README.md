@@ -38,7 +38,7 @@
 ## 🏅 Solved.ac
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj09252)](https://solved.ac/msj09252/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koojiny)](https://solved.ac/koojiny/)
 
 </div>
 <!--
